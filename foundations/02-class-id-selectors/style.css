@@ -1,0 +1,19 @@
+.odd-numbered {
+    background-color: rgb(229, 177, 177);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.bigger-font {
+    font-size: 24px;
+}
+
+#first-div {
+    color: blue;
+    font-size: 36px;
+}
+
+#second-div {
+    background-color: rgb(117, 233, 117);
+    font-size: 24px;
+    font-weight: bold;
+}
